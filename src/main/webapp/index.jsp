@@ -1,6 +1,6 @@
 <html>
 <body>
-	<h1 style="color: violet; font-size: 40px;" align="center"> HAI ASHOKIT, WE DEPLOYED OUR APP IN TEST SERVER</h1>
+	<h1 style="color: violet; font-size: 40px;" align="center">HI EVERYONE, WE DEPLOYED OUT APP</h1>
 	
 	
 	
