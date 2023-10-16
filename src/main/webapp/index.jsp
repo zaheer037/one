@@ -5,7 +5,7 @@
 	<h2 style="color: blue; font-size: 40px;" align="center">THIS IS LAST VERSION OF OUR APP </h2>
 	<h3>THIS IS L&T APPLICATION</h3>
 	<h2 style="color: green; font-size: 40px;" align="center">THIS IS DEPLPOYED BY RK COLLEGE STUDENTS </h2>
-	
+	<h2 style="color: blue; font-size: 40px;" align="center">THIS IS LAST VERSION OF OUR APP </h2>
 	
 	
 	
