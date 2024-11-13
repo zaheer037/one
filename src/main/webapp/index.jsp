@@ -10,7 +10,7 @@
 	<h1 style="color: grey; font-size: 40px;" align="center">we are done with ci/cd</h1>
 	<h1 style="color: blue; font-size: 40px;" align="center">we integraded nexus also/cd</h1>
 	<h1 style="color: black; font-size: 40px;" align="center">we are done with nexus also</h1>
-	<h1>JENKINS IS A CI/CD TOOL</h1>
+	<h1 style="text-align:center">JENKINS IS A CI/CD TOOL</h1>
 	<h1 style="color: green;" align="center">Automation commit</h1>
 	<h1 style="color: green;" align="center">Automation commit 2</h1>
 	
